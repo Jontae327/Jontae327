@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jontae327
+- 👋 Hi, I’m @JontaeHall
 - 👀 I’m interested in ... Software Development/Engineering
 - 🌱 I’m currently learning ... Java Software Development
 - 💞️ I’m looking to collaborate on ...
