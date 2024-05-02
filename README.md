@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JontaeHall
 - 👀 I’m interested in ... Software Development/Engineering
-- 🌱 I’m currently learning ... Java Software Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... JavaScript, IBM AI Development    
+- 💞️ I’m looking to collaborate on ... Beginner projects
 - 📫 How to reach me ... Jontaehall2730@gmail.com
 
 <!---
